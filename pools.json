@@ -14,6 +14,13 @@
     ]
   },
   {
+    "poolName": "ForgeTop",
+    "url": "https://btcp.forgetop.com",
+    "searchStrings": [
+      "Forge Top - the profitable mining pool ----->"
+    ]
+  },
+   {
     "poolName": "Zmine",
     "url": "https://zmine.io/",
     "searchStrings": [
