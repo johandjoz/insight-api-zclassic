@@ -139,5 +139,12 @@
     "searchStrings": [
       "Pickaxe.pro"
     ]
+   },
+   {
+    "poolName": "Panda Mines",
+    "url": "https://pandamines.com",
+    "searchStrings": [
+      "Panda Mines"
+    ]
    }
 ]
