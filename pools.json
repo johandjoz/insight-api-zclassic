@@ -146,5 +146,12 @@
     "searchStrings": [
       "Panda Mines"
     ]
+   },
+   {
+    "poolName": "MinerManiac.com",
+    "url": "http://www.minermaniac.com/",
+    "searchStrings": [
+      "MinerManiac.com http://www.minermaniac.com/"
+    ]
    }
 ]
