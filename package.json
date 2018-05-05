@@ -4,7 +4,7 @@
   "version": "0.4.3",
   "repository": {
     "type": "git",
-    "url": "git://github.com/interbiznw-btcpcontrib/insight-api-btcp.git"
+    "url": "git://github.com/BTCPrivate/insight-api-btcp.git"
   },
   "contributors": [
     {
@@ -45,9 +45,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/interbiznw-btcpcontrib/insight-api-btcp/issues"
+    "url": "https://github.com/BTCPrivate/insight-api-btcp/issues"
   },
-  "homepage": "https://github.com/interbiznw-btcpcontrib/insight-api-btcp",
+  "homepage": "https://github.com/BTCPrivate/insight-api-btcp",
   "license": "MIT",
   "keywords": [
     "insight",
@@ -68,8 +68,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-btcp": "github:interbiznw-btcpcontrib/bitcore-lib-btcp",
-    "bitcore-message-btcp": "github:interbiznw-btcpcontrib/bitcore-message-btcp",
+    "bitcore-lib-btcp": "BTCPrivate/bitcore-lib-btcp",
+    "bitcore-message-btcp": "BTCPrivate/bitcore-message-btcp",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
