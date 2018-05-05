@@ -160,5 +160,12 @@
     "searchStrings": [
       "MinerManiac.com http://www.minermaniac.com/"
     ]
+   },
+   {
+    "poolName": "POOOL",
+    "url": "http://www.POOOL.com/",
+    "searchStrings": [
+      "POOOL.com http://www.POOOL.com/"
+    ]
    }
 ]
