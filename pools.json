@@ -168,5 +168,12 @@
     "searchStrings": [
       "POOOL.com http://www.POOOL.com/"
     ]
+   },
+   {
+    "poolName": "Mining Group",
+    "url": "http://mg-pool.com",
+    "searchStrings": [
+      "Mining Group http://mg-pool.com"
+    ]
    }
 ]
