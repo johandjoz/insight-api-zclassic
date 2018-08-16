@@ -182,5 +182,12 @@
     "searchStrings": [
       "EquiGems! https://equigems.online"
     ]
-   }
+   },
+  {
+    "poolName": "2Miners",
+    "url": "https://2miners.com",
+    "searchStrings": [
+      "2Miners https://2miners.com"
+    ]
+  }
 ]
