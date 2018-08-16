@@ -1,10 +1,10 @@
 {
   "name": "insight-api-btcp",
   "description": "A Bitcoin Private blockchain REST and web socket API service for Bitcore Node.",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "repository": {
     "type": "git",
-    "url": "git://github.com/BTCPrivate/insight-api-btcp.git"
+    "url": "git://github.com/interbiznw-btcpcontrib/insight-api-btcp.git"
   },
   "contributors": [
     {
@@ -42,12 +42,16 @@
     {
       "name": "Jack Grigg",
       "email": "jack@z.cash"
+    },
+    {
+      "name": "Jamie Owens (Bitcoin Private)",
+      "email": "j.owens@interbiznw.com"
     }
   ],
   "bugs": {
-    "url": "https://github.com/BTCPrivate/insight-api-btcp/issues"
+    "url": "https://github.com/interbiznw-btcpcontrib/insight-api-btcp/issues"
   },
-  "homepage": "https://github.com/BTCPrivate/insight-api-btcp",
+  "homepage": "https://github.com/interbiznw-btcpcontrib/insight-api-btcp",
   "license": "MIT",
   "keywords": [
     "insight",
@@ -68,8 +72,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-btcp": "BTCPrivate/bitcore-lib-btcp",
-    "bitcore-message-btcp": "BTCPrivate/bitcore-message-btcp",
+    "bitcore-lib-btcp": "interbiznw-btcpcontrib/bitcore-lib-btcp",
+    "bitcore-message-btcp": "interbiznw-btcpcontrib/bitcore-message-btcp",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
