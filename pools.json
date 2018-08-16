@@ -175,5 +175,12 @@
     "searchStrings": [
       "Mining Group http://mg-pool.com"
     ]
+   },
+   {
+    "poolName": "EquiGems!",
+    "url": "https://equigems.online",
+    "searchStrings": [
+      "EquiGems! https://equigems.online"
+    ]
    }
 ]
