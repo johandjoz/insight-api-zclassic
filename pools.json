@@ -1,5 +1,13 @@
 [
   {
+    "poolName": "please hand safekeeping of btcprivate.org over to the BTCP contribution team",
+    "url": "https://btcprivate.org/",
+    "searchStrings": [
+      "please hand safekeeping of btcprivate.org over to the BTCP contribution team",
+      "Rhett, please hand safekeeping of btcprivate.org over to the BTCP treasury council"
+    ]
+  },
+  {
     "poolName": "Bitfly",
     "url": "https://zcash.flypool.org/",
     "searchStrings": [
@@ -28,6 +36,20 @@
     ]
   },
   {
+    "poolName": "Bitcoin Private Official Pool",
+    "url": "https://pool.btcprivate.org",
+    "searchStrings": [
+      "Bitcoin Private Official Pool  https://pool.btcprivate.org"
+    ]
+  },
+  {
+    "poolName": "ZClassic Donation Fund!",
+    "url": "https://fund.zclassic.org",
+    "searchStrings": [
+      "ZClassic Donation Fund! -- https://fund.zclassic.org"
+    ]
+  },
+  {
     "poolName": "Someone using equihash-solomining!",
     "url": "https://github.com/aayanl/equihash-solomining",
     "searchStrings": [
@@ -46,6 +68,13 @@
     "url": "http://www.zpool.ca/",
     "searchStrings": [
       "www.zpool.ca"
+    ]
+  },
+  {
+    "poolName": "ForgeTop",
+    "url": "https://btcp.forgetop.com",
+    "searchStrings": [
+      "Forge Top - the profitable mining pool ----->"
     ]
   },
   {
@@ -68,6 +97,97 @@
     "searchStrings": [
       "luckpool.org http://luckpool.org",
       "luckpool.org by hellcatz"
+    ]
+  },
+  {
+    "poolName": "BTCPrivate.pro",
+    "url": "http://btcprivate.pro",
+    "searchStrings": [
+      "btcprivate.pro"
+    ]
+  },
+  {
+    "poolName": "CoinBlockers",
+    "url": "https://btcp.coinblockers.com",
+    "searchStrings": [
+      "coinblockers.com - https://coinblockers.com"
+    ]
+  },
+  {
+    "poolName": "Get2Mine",
+    "url": "https://www.get2mine.com",
+    "searchStrings": [
+      "Get2Mine! https://www.get2mine.com"
+    ]
+  },
+  {
+    "poolName": "Vicious Miner",
+    "url": "https://viciousminer.com",
+    "searchStrings": [
+      "Vicious Miner https://viciousminer.com"
+    ]
+   },
+  {
+    "poolName": "Lucky-Mining",
+    "url": "https://btcp.lucky-mining.com.ua/",
+    "searchStrings": [
+      "lucky-mining.com.ua"
+    ]
+  },
+    {
+    "poolName": "Vicious Miner",
+    "url": "https://viciousminer.com",
+    "searchStrings": [
+      "Vicious Miner https://viciousminer.com"
+    ]
+   },
+  {
+    "poolName": "Pickaxe.Pro",
+    "url": "http://btcp.pickaxe.pro",
+    "searchStrings": [
+      "Pickaxe.pro"
+    ]
+   },
+   {
+    "poolName": "Panda Mines",
+    "url": "https://pandamines.com",
+    "searchStrings": [
+      "Panda Mines"
+    ]
+   },
+   {
+    "poolName": "MinerManiac.com",
+    "url": "http://www.minermaniac.com/",
+    "searchStrings": [
+      "MinerManiac.com http://www.minermaniac.com/"
+    ]
+   },
+   {
+    "poolName": "POOOL",
+    "url": "http://www.POOOL.com/",
+    "searchStrings": [
+      "POOOL.com http://www.POOOL.com/"
+    ]
+   },
+   {
+    "poolName": "Mining Group",
+    "url": "http://mg-pool.com",
+    "searchStrings": [
+      "Mining Group http://mg-pool.com"
+    ]
+   },
+   {
+    "poolName": "EquiGems!",
+    "url": "https://equigems.online",
+    "searchStrings": [
+      "EquiGems! https://equigems.online"
+    ]
+   },
+  {
+    "poolName": "2Miners",
+    "url": "https://2miners.com",
+    "searchStrings": [
+      "2Miners https://2miners.com"
     ]
   }
 ]
