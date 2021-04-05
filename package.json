@@ -71,7 +71,7 @@
   "main": "lib",
   "bitcoreNode": "lib",
   "dependencies": {
-    "async": "*",
+    "async": "^1.3.0",
     "bitcore-lib-btcp": "interbiznw-btcpcontrib/bitcore-lib-btcp",
     "bitcore-message-btcp": "interbiznw-btcpcontrib/bitcore-message-btcp",
     "body-parser": "^1.13.3",
